@@ -1,7 +1,8 @@
+import java.util.*;
 class Mytest{
-public static void main(strinf args[])
+public static void main(String args[])
 {
-system.out.println("Hello World");
+System.out.println("Hello World");
 }
 }
 
